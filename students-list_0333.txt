@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-m.bienaimee@alustudent.com 20 11
 =======
 bienaimeemariereine@gmail.com 20 12
 e.adewusi@alustudent.com 20 3
 >>>>>>> 7fd5c5e4a1876f314b486e830af57b03972922c8
 m.bienaimee@alustudent.com 20 12
+i.ikirezi@alustudent.com 12 11
