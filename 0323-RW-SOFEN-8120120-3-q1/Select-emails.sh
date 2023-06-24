@@ -1,4 +1,4 @@
-#/usr/bin/bash
+#!/usr/bin/env bash
 #This script creates a command to select just the emails of the student and saves the output in “student-emails.txt” file.
 
 students_file="students-list_0333.txt"
