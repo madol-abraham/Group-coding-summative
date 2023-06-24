@@ -1,5 +1,5 @@
 #/usr/bin/bash
-#!/bin/bash
+#This script builds an application that will take user input and build the Bachelor of Software Engineering cohort list of students
 
 students_file="students-list_0333.txt"
 
