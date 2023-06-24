@@ -8,5 +8,5 @@ mkdir "$directory_name"
 # Move the files created in Question 1 to the directory
 mv main.sh "$directory_name"
 mv students-list_0333.txt "$directory_name"
-mv select-emails.sh "$directory_name"
+mv Select-emails.sh "$directory_name"
 mv student-emails.txt "$directory_name"
