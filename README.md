@@ -24,3 +24,26 @@ Expected files to have in question 1:
 3. Select-emails.sh
 4. student-emails.txt
 
+## Question 2: Automation with Linux
+
+a. Create a shell script to automatically move all 4 files created in question 1 in a directory with the name negpod_id-q1 (e.g. “0323-RW-SOFEN-8120120-1_q1”).
+Shell script file:  move-to-directory.sh
+Directory: negpod_id-q1
+
+b. Create a shell script to back up the directory created in Question 2, a. to a remote server computer. Each group will create a backup-Negpod_ID.sh (e.g. “backup-0323-RW-SOFEN-8120120-1.sh”)
+
+Shell script file:  backup-Negpod_ID.sh
+Details about the remote server:
+Host: a0dfc11ba139.a982e858.alu-cod.online
+
+Username:  a0dfc11ba139
+
+Password: 899c79fc532cd0591af1
+
+Location for backing up your directory: /home/sftp-student/03033/summative
+
+Expected files to have in question 2:
+
+1. Move-to-directory.sh
+2. negpod_id-q1
+3. backup-Negpod_ID.sh
